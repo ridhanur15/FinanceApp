@@ -7,4 +7,4 @@
 
 [![HomeScreen1](https://drive.google.com/uc?export=view&id=1edaeQOD8Rlsl3aIYCi2LNTj6nSF3XAmm)](https://drive.google.com/file/d/1edaeQOD8Rlsl3aIYCi2LNTj6nSF3XAmm/view?usp=sharing)
 
-[![HomeScreen2](https://drive.google.com/uc?export=view&id=13aMdn8heKSivgZ1C8tkkiUU_7s3Zq9Sb)](https://drive.google.com/file/d/13aMdn8heKSivgZ1C8tkkiUU_7s3Zq9Sb/view?usp=sharing)
+[![HomeScreen2](https://drive.google.com/file/d/1SpJZgKJ1yCVyPJ10CCkWxZgmqV2Ztzda/view?usp=sharing)](https://drive.google.com/file/d/13aMdn8heKSivgZ1C8tkkiUU_7s3Zq9Sb/view?usp=sharing)
